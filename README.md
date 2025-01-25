@@ -40,5 +40,5 @@ The goal is to set up and secure a virtual machine with Debian or Rocky while le
 
 ## 📝 Resources
 
-- **`1`** : [https://42-cursus.gitbook.io/guide/rank-01/ft_printf](https://github.com/chlimous/42-born2beroot_guide)
+- **`1`** : https://github.com/chlimous/42-born2beroot_guide
 
